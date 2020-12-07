@@ -6,11 +6,8 @@ The idea is based on Chapter 4, *More Complex, Adaptive Models* from
 [Practical Machine Learning](https://www.safaribooksonline.com/library/view/practical-machine-learning/9781491914151/ch04.html)
 by Ted Dunning and Ellen Friedman.
 
-**Update**: Majid al-Dosari (in the comments at
-<http://amid.fish/anomaly-detection-with-k-means-clustering>) and Eamonn Keogh
-point out that there may be issues with the approach described here for the
-reasons outlined in
-[Clustering of Time Series Subsequences is Meaningless](http://www.cs.ucr.edu/~eamonn/meaningless.pdf).
+**Action**: read the following article:[Clustering of Time Series Subsequences is Meaningless](http://www.cs.ucr.edu/~eamonn/meaningless.pdf).
+Is there any issue with the approach described here? 
 This material still serves as an introduction to unsupervised learning and
 clustering, but **beware in using it for anomaly detection in practice**.
 
