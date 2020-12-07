@@ -13,13 +13,15 @@ clustering, but **beware in using it for anomaly detection in practice**.
 
 ### Contents
 
-* `Unsupervised Learning.ipynb` is an IPython notebook demonstrating a simple example of unsupervised learning: time-series anomaly detection. View a static version of the notebook at http://nbviewer.ipython.org/github/mrahtz/sanger-machine-learning-workshop/blob/master/Unsupervised%20Learning.ipynb.
+* `Clustring example 1.ipynb` is an IPython notebook demonstrating a simple example of unsupervised learning: time-series anomaly detection. you can open this file in google colab and upload data nd required .py files
+https://github.com/moe-ai/SBU_ML_CYBER/tree/main/week6/Practical%201-%20sanger
 * `a02.dat` is a set of EKG data from PhysioNet used to demonstrate the
   algorithms.
 * `ekg_data.py` is a module for reading the EKG data.
 * `learn_utils.py` is a collection of helper functions developed in the
   notebook, saved as a module for reuse.
 * `learn.py` is a complete listing for the code developed in the notebook.
+
 
 ### Requirements
 
